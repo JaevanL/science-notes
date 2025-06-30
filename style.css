@@ -8,6 +8,7 @@ body {
   padding: 1rem;
 }
 .sybau {
+  hover-color: red;
   font-size: 5rem;
   padding: 10rem;
 }
