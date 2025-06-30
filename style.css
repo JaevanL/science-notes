@@ -3,6 +3,7 @@ body {
 }
 
 .adrial-sybau-area {
+  bockground-color: hsl(0, 0%, 80%);
   margin: 10rem;
   padding: 10rem;
 }
