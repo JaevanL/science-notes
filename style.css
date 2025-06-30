@@ -3,8 +3,7 @@ body {
 }
 
 .adrial-sybau-area {
-  display=flex;
-  flex-align: center;
+  margin: 10rem;
 }
 .sybau {
   width: 10rem;
